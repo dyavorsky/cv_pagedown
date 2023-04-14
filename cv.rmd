@@ -1,0 +1,201 @@
+---
+title: "Dan Yavorsky's"
+output:
+    pagedown::html_resume:
+        self_contained: true
+knit: pagedown::chrome_print
+suppress-bibliography: true
+---
+
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> dyavorsky@gmail.com
+- <i class="fa fa-home"></i> [www.danyavorsky.com](https://www.danyavorsky.com)
+- <i class="fa fa-github"></i> [github.com/dyavorsky](https://github.com/dyavorsky)
+- <i class="fa fa-phone"></i> +1 951 201 0927
+
+
+
+Skills/Interests {#skills}
+--------------------------------------------------------------------------------
+
+- Statistics, Econometrics, R Programming, Pedagogy
+
+- Quantitative Marketing, Customer Analytics, Market Research, Causal Inference, Bayesian Methods, Structural Models of Demand, Consumer Search
+
+- Aspiring user of Python, Julia, Vim
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!-- This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). -->
+
+Last updated on `r Sys.Date()`
+
+
+
+Main
+================================================================================
+
+Dan Yavorsky {#title}
+--------------------------------------------------------------------------------
+
+### SVP Analytics at GBK Collective  
+### Lecturer at UCLA Anderson and UCSD Rady
+
+I lead the Marketing Science and Analytics group alongside co-founder Eric Bradlow at GBK Collective where we apply econometric, statistical, and machine learning algorithms (usually with R) to help solve business problems. I also teach courses in Customer Analytics and Econometrics at the UCSD Rady and UCLA Anderson business schools. 
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### PhD Quantitative Marketing
+
+UCLA Anderson
+
+Los Angeles, CA
+
+2020
+
+### MBA, Management
+
+UCLA Anderson
+
+Los Angeles, CA
+
+2014
+
+### CFA Charterholder
+
+Chartered Financial Analyst (CFA) Institute
+
+San Francisco, CA
+
+2012
+
+### BA, Economics & Mathematics
+
+Claremont McKenna College
+
+Claremont, CA
+
+2006
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Senior Vice President, Analytics
+
+GBK Collective
+
+Los Angeles, CA
+
+Present - 2022
+
+- Interface with client and project teams, and run the day-to-day operations of our analytics group. This includes exploring solutions to analytic problems, developing best practices around the implementations of those solutions, and growing and managing the analytics team.
+
+### Manager, Advanced Analytics
+
+Bain & Co.
+
+Los Angeles, CA
+
+2021 - 2020
+
+- Performed marketing analytics to support strategic management consulting engagements, including conjoint analysis, maximum-difference scaling, customer segmentation, perceptual mapping, and regression analysis.
+- Developed ecosystem of statistical and machine learning models to enable media conglomerate to value content on its streaming platforms and optimize media licensing decisions.
+
+### Graduate Student Research Assistant
+
+University of California, Los Angeles
+
+Los Angeles, CA
+
+2019 - 2015
+
+- Provided research assistance for Chen, Chevalier, Rossi, and Oehlsen “The Value of Flexible Work: Evidence from Uber Drivers” _Journal of Political Economy_, 2019.
+- Updated and maintained Professor Rossi’s R package `bayesm`, including programming of functions that estimate parameters of Bayesian statistical models, authorship of vignettes, and revisions to documentation.
+
+### Research Associate
+
+Cornerstone Research
+
+Los Angeles, CA
+
+2014 - 2006
+
+- Performed economic, financial, and statistical analysis to support professors engaged as expert witnesses in over 100 commercial litigation matters related to consumer fraud, bankruptcy, forensic accounting, and asset pricing.
+- Led substantial internal intiatives including firm-wide analyst training and recruiting for the Los Angeles office.
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Lecturer
+
+University of California, Los Angeles
+
+Los Angeles, CA
+
+Present - 2021
+
+- Econometrics (MFE 402)
+- Marketing Strategy and Policy (EMBA 411)
+
+
+### Lecturer
+
+University of California, San Diego
+
+San Diego, CA
+
+Present - 2021
+
+- Customer Analytics (MGT 100)
+- Business Analytics (MGT 153)
+
+
+### Teaching Assistant
+
+University of California, Los Angeles
+
+Los Angeles, CA
+
+2020 - 2015
+
+- Econometrics (with Peter Rossi for MFE)
+- R Programming (with Peter Rossi for MSBA)
+- Data Science (with Stephan Seiler for MSBA)
+- Pricing (with Elisabeth Honka for MBA)
+- Statistics (with Elisa Long for MBA)
+- Customer Analytics (with Brett Hollenbeck for MBA)
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Consumer search in the U.S. auto industry: The role of dealership visits [[PDF](https://link.springer.com/content/pdf/10.1007/s11129-020-09229-4.pdf)]
+
+_Quantitative Marketing and Economics_ 
+
+Los Angeles, CA
+
+2020
+
+Dan Yavorsky, Elisabeth Honka, and Keith Chen
+

@@ -29,14 +29,28 @@ Contact {#contact}
 
 
 
-Skills/Interests {#skills}
+Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Statistics, Econometrics, R Programming, Pedagogy
+Statistics, Econometrics, Pedagogy
 
-- Quantitative Marketing, Customer Analytics, Market Research, Causal Inference, Bayesian Methods, Structural Models of Demand, Consumer Search
+R, SQL, Tableau, Markdown, Latex
 
-- Aspiring user of Python, Julia, Vim
+
+Interests {#interests}
+--------------------------------------------------------------------------------
+
+Quantitative Marketing, Customer Analytics, Market Research, Causal Inference, Bayesian Methods, Structural Models of Demand, Consumer Search
+
+Aspiring user of Python, Julia, Vim
+
+
+Personal {#personal}
+--------------------------------------------------------------------------------
+
+US Citizen; Married; Two children
+
+Play soccer, cycle, sip bourbon, build mechanical keyboards, collect pocket knives, memorize children books
 
 
 Disclaimer {#disclaimer}
@@ -54,10 +68,11 @@ Main
 Dan Yavorsky {#title}
 --------------------------------------------------------------------------------
 
-### SVP Analytics at GBK Collective  
-### Lecturer at UCLA Anderson and UCSD Rady
+### Analytics at GBK | Lecturer at UCLA & UCSD
 
-I lead the Marketing Science and Analytics group alongside co-founder Eric Bradlow at GBK Collective where we apply econometric, statistical, and machine learning algorithms (usually with R) to help solve business problems. I also teach courses in Customer Analytics and Econometrics at the UCSD Rady and UCLA Anderson business schools. 
+I lead the Marketing Science and Analytics group alongside co-founder Eric Bradlow at GBK Collective where we apply econometric, statistical, and machine learning algorithms (usually with R) to help solve business problems. 
+
+I also teach courses in Customer Analytics and Econometrics at the UCSD Rady and UCLA Anderson business schools. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -146,7 +161,7 @@ Los Angeles, CA
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Lecturer
+### Lecturer, UCLA
 
 University of California, Los Angeles
 
@@ -158,7 +173,7 @@ Present - 2021
 - Marketing Strategy and Policy (EMBA 411)
 
 
-### Lecturer
+### Lecturer, UCSD
 
 University of California, San Diego
 

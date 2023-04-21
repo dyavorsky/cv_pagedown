@@ -32,17 +32,16 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-Statistics, Econometrics, Pedagogy
-
+Statistics, Econometrics, Pedagogy  
 R, SQL, Tableau, Markdown, Latex
+
+Aspiring user of Python, Julia, Vim
 
 
 Interests {#interests}
 --------------------------------------------------------------------------------
 
 Quantitative Marketing, Customer Analytics, Market Research, Causal Inference, Bayesian Methods, Structural Models of Demand, Consumer Search
-
-Aspiring user of Python, Julia, Vim
 
 
 Personal {#personal}
@@ -70,7 +69,7 @@ Dan Yavorsky {#title}
 
 ### Analytics at GBK | Lecturer at UCLA & UCSD
 
-I lead the Marketing Science and Analytics group alongside co-founder Eric Bradlow at GBK Collective where we apply econometric, statistical, and machine learning algorithms (usually with R) to help solve business problems. 
+I lead the Marketing Science and Analytics function alongside co-founder Eric Bradlow at GBK Collective where we apply econometric, statistical, and machine learning algorithms (usually with R) to help solve business problems. 
 
 I also teach courses in Customer Analytics and Econometrics at the UCSD Rady and UCLA Anderson business schools. 
 
@@ -122,7 +121,7 @@ Los Angeles, CA
 
 Present - 2022
 
-- Interface with client and project teams, and run the day-to-day operations of our analytics group. This includes exploring solutions to analytic problems, developing best practices around the implementations of those solutions, and growing and managing the analytics team.
+- Interface with client and project teams, execute analysis, and run the day-to-day operations of our analytics funcion. This includes exploring solutions to analytic problems, developing best practices around the implementations of those solutions, and growing and managing the analytics team.
 
 ### Manager, Advanced Analytics
 
@@ -132,7 +131,7 @@ Los Angeles, CA
 
 2021 - 2020
 
-- Performed marketing analytics to support strategic management consulting engagements, including conjoint analysis, maximum-difference scaling, customer segmentation, perceptual mapping, and regression analysis.
+- Performed marketing analytics to support strategic management consulting engagements, including conjoint analysis, maximum-difference scaling, customer segmentation, perceptual mapping, and other statistical or econometric analysis.
 - Developed ecosystem of statistical and machine learning models to enable media conglomerate to value content on its streaming platforms and optimize media licensing decisions.
 
 ### Graduate Student Research Assistant
@@ -154,7 +153,7 @@ Los Angeles, CA
 
 2014 - 2006
 
-- Performed economic, financial, and statistical analysis to support professors engaged as expert witnesses in over 100 commercial litigation matters related to consumer fraud, bankruptcy, forensic accounting, and asset pricing.
+- Performed economic, financial, and statistical analysis to support professors engaged as expert witnesses in over 100 commercial litigation matters related to consumer fraud, bankruptcy, forensic accounting, asset pricing, and others.
 - Led substantial internal intiatives including firm-wide analyst training and recruiting for the Los Angeles office.
 
 

@@ -69,7 +69,7 @@ Dan Yavorsky {#title}
 
 ### Analytics at GBK | Lecturer at UCLA & UCSD
 
-I lead the Marketing Science and Analytics function alongside co-founder Eric Bradlow at GBK Collective where we apply econometric, statistical, and machine learning algorithms (usually with R) to help solve business problems. 
+I lead the Marketing Science and Analytics function alongside co-founder and professor Eric Bradlow at GBK Collective where I apply econometric, statistical, and machine learning analyses to support our consultants in solving our clients' business problems. 
 
 I also teach courses in Customer Analytics and Econometrics at the UCSD Rady and UCLA Anderson business schools. 
 
@@ -121,7 +121,7 @@ Los Angeles, CA
 
 Present - 2022
 
-- Interface with client and project teams, execute analysis, and run the day-to-day operations of our analytics funcion. This includes exploring solutions to analytic problems, developing best practices around the implementations of those solutions, and growing and managing the analytics team.
+- Run the day-to-day operations of our analytics function. This includes interfacing with client and project teams, execute analysis, extending and researching analytic methodology, exploring analytic solutions to business problems, developing best practices implementing those solutions, and growing and managing the analytics team.
 
 ### Manager, Advanced Analytics
 
@@ -193,8 +193,9 @@ Los Angeles, CA
 2020 - 2015
 
 - Econometrics (with Peter Rossi for MFE)
-- R Programming (with Peter Rossi for MSBA)
-- Data Science (with Stephan Seiler for MSBA)
+- R Programming (with Peter Rossi for MsBA)
+- Data Science (with Stephan Seiler for MsBA)
+- Customer Analytics (with Anand Bodapati for MsBA)
 - Pricing (with Elisabeth Honka for MBA)
 - Statistics (with Elisa Long for MBA)
 - Customer Analytics (with Brett Hollenbeck for MBA)

@@ -1,11 +1,13 @@
 ---
-title: "Dan Yavorsky's"
+title: "Dan Yavorsky's Resume"
 output:
     pagedown::html_resume:
         self_contained: true
 knit: pagedown::chrome_print
 suppress-bibliography: true
 ---
+
+<!-- following code chunk hides the side bar after page 1 -->
 
 ```{css, echo=FALSE}
 .pagedjs_page:not(:first-of-type) {
@@ -33,7 +35,8 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 Statistics, Econometrics, Pedagogy  
-R, SQL, Tableau, Markdown, Latex
+R, SQL, Tableau,  
+Quarto, Markdown, Latex
 
 Aspiring user of Python, Julia, Vim
 
@@ -49,7 +52,7 @@ Personal {#personal}
 
 US Citizen; Married; Two children
 
-Play soccer, cycle, sip bourbon, build mechanical keyboards, collect pocket knives, memorize children books
+Play soccer, cycle, sip bourbon, build mechanical keyboards, collect pocket knives, patinate boots, memorize children books
 
 
 Disclaimer {#disclaimer}
@@ -71,7 +74,7 @@ Dan Yavorsky {#title}
 
 I lead the Marketing Science and Analytics function alongside co-founder and professor Eric Bradlow at GBK Collective where I apply econometric, statistical, and machine learning analyses to support our consultants in solving our clients' business problems. 
 
-I also teach courses in Customer Analytics and Econometrics at the UCSD Rady and UCLA Anderson business schools. 
+I also teach courses in Analytics, Econometrics, and related topics at the UCSD Rady and UCLA Anderson business schools. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -121,7 +124,7 @@ Los Angeles, CA
 
 Present - 2022
 
-- Run the day-to-day operations of our analytics function. This includes interfacing with client and project teams, execute analysis, extending and researching analytic methodology, exploring analytic solutions to business problems, developing best practices implementing those solutions, and growing and managing the analytics team.
+- Run the day-to-day operations of our analytics function. I interface with client and project teams, execute analyses, extend and research analytic methodology, explore analytic solutions to business problems, develop best practices implementing those solutions, and grow and manage the analytics team.
 
 ### Manager, Advanced Analytics
 
@@ -131,7 +134,7 @@ Los Angeles, CA
 
 2021 - 2020
 
-- Performed marketing analytics to support strategic management consulting engagements, including conjoint analysis, maximum-difference scaling, customer segmentation, perceptual mapping, and other statistical or econometric analysis.
+- Performed marketing analytics to support strategic management consulting engagements, including conjoint analysis, maximum-difference scaling, customer segmentation, perceptual mapping, factor analysis, and other statistical or econometric analysis.
 - Developed ecosystem of statistical and machine learning models to enable media conglomerate to value content on its streaming platforms and optimize media licensing decisions.
 
 ### Graduate Student Research Assistant
@@ -143,9 +146,10 @@ Los Angeles, CA
 2019 - 2015
 
 - Provided research assistance for Chen, Chevalier, Rossi, and Oehlsen “The Value of Flexible Work: Evidence from Uber Drivers” _Journal of Political Economy_, 2019.
-- Updated and maintained Professor Rossi’s R package `bayesm`, including programming of functions that estimate parameters of Bayesian statistical models, authorship of vignettes, and revisions to documentation.
+- Provided research assistance for Honka, Seiler, and Ursu "The Sequential Search Model: A Framework for Empirical Research" _Quantitative Marketing and Economics_, 2024.
+- Updated and maintained Professor Rossi’s R package `bayesm` by editing functions that estimate parameters of Bayesian statistical models, authoring vignettes, and revising documentation.
 
-### Research Associate
+### Analyst, Senior Analyst, Research Associate
 
 Cornerstone Research
 
@@ -153,8 +157,8 @@ Los Angeles, CA
 
 2014 - 2006
 
-- Performed economic, financial, and statistical analysis to support professors engaged as expert witnesses in over 100 commercial litigation matters related to consumer fraud, bankruptcy, forensic accounting, asset pricing, and others.
-- Led substantial internal intiatives including firm-wide analyst training and recruiting for the Los Angeles office.
+- Performed economic, financial, and statistical analyses to support professors engaged as expert witnesses in over 100 commercial litigation matters related to consumer fraud, bankruptcy, forensic accounting, asset pricing, and other matters.
+- Led substantial internal initiatives including firm-wide analyst training and West Coast analyst recruiting.
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
@@ -182,6 +186,7 @@ Present - 2021
 
 - Customer Analytics (MGT 100)
 - Business Analytics (MGT 153)
+- Marketing Analytics (MGTA)
 
 
 ### Teaching Assistant

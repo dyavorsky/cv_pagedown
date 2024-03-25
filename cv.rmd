@@ -72,7 +72,7 @@ Dan Yavorsky {#title}
 
 ### Analytics at GBK | Lecturer at UCLA & UCSD
 
-I lead the Marketing Science and Analytics function alongside co-founder and professor Eric Bradlow at GBK Collective where I apply econometric, statistical, and machine learning analyses to support our consultants in solving our clients' business problems. 
+I lead the Marketing Science and Analytics function alongside co-founder and professor Eric Bradlow at GBK Collective where I apply econometric, statistical, and machine learning methods to derive consumer insights and inform marketing strategy for our clients. 
 
 I also teach courses in Analytics, Econometrics, and related topics at the UCSD Rady and UCLA Anderson business schools. 
 
@@ -124,7 +124,7 @@ Los Angeles, CA
 
 Present - 2022
 
-- Run the day-to-day operations of our analytics function. I interface with client and project teams, execute analyses, extend and research analytic methodology, explore analytic solutions to business problems, develop best practices implementing those solutions, and grow and manage the analytics team.
+- Run the day-to-day operations of our Marketing Science and Analytics function. I interface with client and project teams, execute analyses, extend and research analytic methodology, explore analytic solutions to business problems, develop best practices implementing those solutions, and grow and manage our team.
 
 ### Manager, Advanced Analytics
 
@@ -153,7 +153,7 @@ Los Angeles, CA
 
 Cornerstone Research
 
-Los Angeles, CA
+San Francisco, CA
 
 2014 - 2006
 
@@ -184,9 +184,9 @@ San Diego, CA
 
 Present - 2021
 
-- Customer Analytics (MGT 100)
-- Business Analytics (MGT 153)
-- Marketing Analytics (MGTA)
+- Customer Analytics (MGT 100 for BA)
+- Business Analytics (MGT 153 for BA)
+- Marketing Analytics (MGTA 495 for MsBA)
 
 
 ### Teaching Assistant

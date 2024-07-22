@@ -72,7 +72,7 @@ Dan Yavorsky {#title}
 
 ### Analytics at GBK | Lecturer at UCLA & UCSD
 
-I lead the Marketing Science and Analytics function alongside co-founder and professor Eric Bradlow at GBK Collective where I apply econometric, statistical, and machine learning methods to derive consumer insights and inform marketing strategy for our clients. 
+I lead the Marketing Science and Analytics function alongside co-founder and professor Eric Bradlow at GBK Collective where my team and I apply econometric, statistical, and machine learning methods to derive consumer insights and inform marketing strategy for our clients. 
 
 I also teach courses in Analytics, Econometrics, and related topics at the UCSD Rady and UCLA Anderson business schools. 
 
@@ -124,7 +124,7 @@ Los Angeles, CA
 
 Present - 2022
 
-- Run the day-to-day operations of our Marketing Science and Analytics function. I interface with client and project teams, execute analyses, extend and research analytic methodology, explore analytic solutions to business problems, develop best practices implementing those solutions, and grow and manage our team.
+- Lead the day-to-day operations of our Marketing Science and Analytics function. I interface with client and project teams, execute analyses, extend and research analytic methodology, explore analytic solutions to business problems, develop best practices implementing those solutions, and grow and manage our analytics team.
 
 ### Manager, Advanced Analytics
 
@@ -147,7 +147,7 @@ Los Angeles, CA
 
 - Provided research assistance for Chen, Chevalier, Rossi, and Oehlsen “The Value of Flexible Work: Evidence from Uber Drivers” _Journal of Political Economy_, 2019.
 - Provided research assistance for Honka, Seiler, and Ursu "The Sequential Search Model: A Framework for Empirical Research" _Quantitative Marketing and Economics_, 2024.
-- Updated and maintained Professor Rossi’s R package `bayesm` by editing functions that estimate parameters of Bayesian statistical models, authoring vignettes, and revising documentation.
+- Updated and maintained Professor Rossi’s R package `bayesm` by editing functions that draw from posterior distributions of Bayesian statistical models, authoring vignettes, and revising documentation.
 
 ### Analyst, Senior Analyst, Research Associate
 
@@ -218,4 +218,28 @@ Los Angeles, CA
 2020
 
 Dan Yavorsky, Elisabeth Honka, and Keith Chen
+
+<!--
+In Progress {data-icon=file-edit}
+--------------------------------------------------------------------------------
+
+### Outside Good Uncertainty: Ordinal Dual Response in Choice-Based Conjoint Analysis [[link](https://dyavorsky.github.io/likert_dualresponse/)]
+
+_with Prachi Bhalerao and Geoffery Zheng_
+
+Los Angeles, CA
+
+2024
+
+
+### Discrete Choice Model Estimation with R [[link](http://dcme-r.danyavorsky.com/)]
+
+_a book providing instruction on how to estimate discrete choice models "by hand" in R_
+
+Los Angeles, CA
+
+2024
+-->
+
+
 

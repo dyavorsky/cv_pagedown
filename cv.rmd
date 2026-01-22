@@ -25,11 +25,12 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> dyavorsky@gmail.com
-- <i class="fa fa-home"></i> [www.danyavorsky.com](https://www.danyavorsky.com)
+- <i class="fa fa-user"></i> [www.danyavorsky.com](https://www.danyavorsky.com)
 - <i class="fa fa-github"></i> [github.com/dyavorsky](https://github.com/dyavorsky)
 - <i class="fa fa-phone"></i> +1 951 201 0927
+- <i class="fa fa-home"></i> Los Angeles, CA
 
-
+<!-- changed to allow for more than 4 lines in contact section -->
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -52,7 +53,7 @@ Personal {#personal}
 
 US Citizen; Married; Two children
 
-Play soccer, cycle, sip bourbon, build mechanical keyboards, collect pocket knives, patinate boots, memorize children books
+Train dogs, cycle, sip bourbon, build mechanical keyboards, collect pocket knives, patinate boots, lament ManU
 
 
 Disclaimer {#disclaimer}
